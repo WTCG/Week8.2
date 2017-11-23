@@ -16,7 +16,7 @@
                 action=query& \
                 generator=search& \
                 gsrnamespace=0& \
-                gsrlimit=10& \
+                gsrlimit=5& \
                 prop=info|extracts|langlinks|pageimages& \
                 inprop=url& \
                 exintro& \
